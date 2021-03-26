@@ -6,3 +6,11 @@
  <br>
   I have automated the Like System
   <b>We can like No. of Post just In click </b>
+
+### To run create file `config.json` file
+ code:
+ ` {
+  user:"",
+  pass:""
+  }
+  `
